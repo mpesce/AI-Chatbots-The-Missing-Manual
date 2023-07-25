@@ -32,7 +32,7 @@ We’ll take them individually, starting with the first and (arguably) the best.
 
   
 
-<h3>What is it?</h3>h3>
+<h3>What is it?</h3>
 
   
 
